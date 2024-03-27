@@ -1,0 +1,12 @@
+{
+    "database_config":{
+        "host":"localhost",
+        "user":"root",
+        "password":"hieudz14022003",
+        "database":"internet_store"
+    },
+    "server_host_config":{
+        "host":"localhost",
+        "port":9999
+    }
+}
